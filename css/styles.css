@@ -1,0 +1,22 @@
+body {
+    background-color: #D2DAFF;
+    font: verdana;
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 7px;
+    width: 25%;
+}
+header {
+    background-color: #B1B2FF;
+}
+
+nav {
+    background-color: white;
+    font-style: bold;
+    
+}
