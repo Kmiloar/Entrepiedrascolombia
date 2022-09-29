@@ -1,0 +1,20 @@
+body {
+    background-color: #D2DAFF;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 7px;
+    width: 25%;
+}
+header {
+    background-color: #AAC4FF;
+}
+
+nav {
+    background-color: #B1B2FF;
+    font-style: bold;
+    
+}
