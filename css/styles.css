@@ -1,0 +1,27 @@
+body {
+    background-color: #EEF1FF;
+    font-family: "serif", garamond;
+    font-size: 18px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #645CAA;
+    border-width: 7px;
+    width: 25%;
+}
+header {
+    background-color: #D2DAFF;
+    font-size: 20px;
+}
+
+nav {
+    background-color: #AAC4FF;
+    font-style: bold;  
+}
+
+h3{
+    color: #645CAA;
+    
+}
