@@ -1,6 +1,6 @@
 body {
     background-color: #EEF1FF;
-    font-family: "serif", garamond;
+    font-family: garamond;
     font-size: 18px;
 }
 
@@ -18,10 +18,16 @@ header {
 
 nav {
     background-color: #AAC4FF;
-    font-style: bold;  
+    
 }
 
 h3{
     color: #645CAA;
+}
+section{
+    background-color: #B1B2FF;
+    font-family: garamond;
+    font-size: 25px;
+    font-weight: bolder;
     
 }
