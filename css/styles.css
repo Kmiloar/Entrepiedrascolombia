@@ -1,6 +1,6 @@
 body {
     background-color: #EEF1FF;
-    font-family: garamond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
 }
 
@@ -13,7 +13,6 @@ hr {
 }
 header {
     background-color: #D2DAFF;
-    font-size: 20px;
 }
 
 nav {
@@ -26,7 +25,7 @@ h3{
 }
 section{
     background-color: #B1B2FF;
-    font-family: garamond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: bolder;
     
