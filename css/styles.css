@@ -17,16 +17,21 @@ header {
 
 nav {
     background-color: #AAC4FF;
-    
 }
 
 h3{
     color: #645CAA;
 }
-section{
+
+section {
     background-color: #B1B2FF;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 25px;
     font-weight: bolder;
-    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
 }
