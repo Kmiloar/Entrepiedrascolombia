@@ -33,5 +33,18 @@ section {
 a {
     text-decoration: none;
     color: black;
+}
 
+.articulo:hover {
+    width: 17%;
+    height: 17%;
+}
+
+.barra:hover {
+    color: #256D85;
+}
+
+.rs:hover {
+    width: 5%;
+    height: 5%;
 }
