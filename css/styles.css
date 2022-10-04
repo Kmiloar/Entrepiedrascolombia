@@ -45,6 +45,9 @@ a {
 }
 
 .rs:hover {
-    width: 5%;
-    height: 5%;
+    transform:scale(1.5);
+}
+
+.rs {
+    transition:250ms;
 }
