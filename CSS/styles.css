@@ -1,12 +1,12 @@
 .title1 {
-    background-color: #B1B2FF;
+    background-color: #EFD9D1;
     padding-top: 20px;
     padding-bottom: 15px;
     line-height: 2;
 }
 
 .navbar {
-    background-color: #B1B2FF;
+    background-color: #EFD9D1;
 }
 
 .profile-photo {
@@ -14,7 +14,7 @@
 }
 
 section {
-    background-color: #D2DAFF;
+    background-color: #F4EEED;
     padding-top: 30px;
     padding-bottom: 30px;
 }
@@ -47,7 +47,7 @@ hr {
     border-style: none;
     border-top-style: dotted;
     border-width: 6px;
-    border-color:#B1B2FF;
+    border-color:#DDB7AB;
     width: 20%;
     text-align: center;
     margin: 0 auto 0;
@@ -55,3 +55,6 @@ hr {
     margin: 30px auto 30px auto;
 }
 
+#profile {
+    margin-top: 10px;
+}
