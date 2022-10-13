@@ -49,6 +49,7 @@ h3 {
 
 p {
     font-family: 'Montserrat', sans-serif;
+    text-align: justify;
 }
 
 #ptitle {
@@ -136,8 +137,8 @@ a{
 }
 
 .products {
-    padding-bottom: 3%;
-    width: 40%;
+    padding-bottom: 8%;
+    width: 60%;
     margin: auto;
 }
 
