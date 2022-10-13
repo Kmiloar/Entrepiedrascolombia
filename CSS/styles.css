@@ -1,8 +1,14 @@
-.title1 {
+#title {
     background-color: #EFD9D1;
-    padding-top: 20px;
-    padding-bottom: 15px;
+}
+    
+.title1 {
+    padding-top: 2%;
     line-height: 2;
+}
+
+.container-fluid {
+    padding: 1% 15%;
 }
 
 .navbar {
@@ -10,13 +16,13 @@
 }
 
 .profile-photo {
-    width:42%;
+    width:55%;
+    border-radius: 10%;
 }
 
-section {
+#body {
     background-color: #F4EEED;
-    padding-top: 30px;
-    padding-bottom: 30px;
+   
 }
 
 body {
@@ -55,6 +61,35 @@ hr {
     margin: 30px auto 30px auto;
 }
 
-#profile {
-    margin-top: 10px;
+.tipeacc {
+    height: 80%;
+    border-radius: 10%;
+}
+
+h5 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 2%;   
+    font-weight: bold;
+}
+
+.nup {
+    margin-bottom: 3%;
+}
+
+.juntas {
+    padding-bottom: 3%;
+}
+
+.jyh {
+    width: 70%;
+    border-radius: 10%;
+}
+
+.third-container {
+    padding-bottom: 4%;
+}
+.RS {
+    background-color: #EFD9D1;
+    padding-top: 3%;
+    padding-bottom: 3%;   
 }
