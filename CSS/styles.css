@@ -112,10 +112,12 @@ a{
 
 .phone-number {
     padding-top: 1%;
+    text-align: center;
 }
 
 .autor {
     font-size: 0.8rem;
+    text-align: center;
 }
 
 .navbar-brand {
@@ -141,4 +143,3 @@ a{
     width: 60%;
     margin: auto;
 }
-
