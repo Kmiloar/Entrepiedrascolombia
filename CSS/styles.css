@@ -128,3 +128,7 @@ a{
 .RS1 {
     transition: all 300ms;
 }
+
+#footer {
+    width:10%
+}
