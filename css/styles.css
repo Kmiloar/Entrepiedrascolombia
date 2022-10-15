@@ -18,6 +18,13 @@ padding: 1% 12%;
     font-size: 2rem;
 }
 
+.collapse {
+    text-align: right;
+}
+
+.navbar-collapse {
+    text-align: right;
+}
 
 /*Nombre*/
 
