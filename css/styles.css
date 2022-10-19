@@ -101,6 +101,10 @@ hr {
     transform: scale(1.05);
 }
 }
+
+.img-acc:active {
+    transform: scale(1.05);
+}
 .para-acc {
     width: 50%; 
     text-align: center; 
@@ -121,10 +125,13 @@ hr {
 
 @media (hover:hover) {
 .img-4j:hover {
-    transform:scale(1.02)
+    transform: scale(1.02);
 }
 }
 
+.img-4j:active {
+    transform:scale(1.02)
+}
 #footer {
     background-color: #FFE3E1;
     padding-bottom: 5%;
@@ -145,6 +152,9 @@ hr {
 }
 }
 
+.rs1:active {
+    color: #665a48;
+}
 .phone-num {
     font-family: 'Montserrat', sans-serif;
     font-size: 0.8rem; 
