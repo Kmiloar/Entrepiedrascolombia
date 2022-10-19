@@ -9,7 +9,7 @@
 }
 
 .container-fluid {
-padding: 1% 12%;
+padding: 1% 12% 1%;
 }
 
 .logo {
@@ -96,10 +96,11 @@ hr {
     font-size: 1.1rem;
 }
 
+@media (hover:hover) {
 .img-acc:hover {
     transform: scale(1.05);
 }
-
+}
 .para-acc {
     width: 50%; 
     text-align: center; 
@@ -118,8 +119,10 @@ hr {
     transition: 250ms;
 }
 
+@media (hover:hover) {
 .img-4j:hover {
     transform:scale(1.02)
+}
 }
 
 #footer {
@@ -136,8 +139,10 @@ hr {
     color: #000;
 }
 
+@media (hover:hover) {
 .rs1:hover {
     color: #665A48;
+}
 }
 
 .phone-num {
