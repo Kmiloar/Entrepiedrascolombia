@@ -122,6 +122,11 @@ hr {
     padding-top: 2%;
     border-radius: 10%;
     transition: 250ms;
+    box-shadow: 5px 5px 2px lightblue;
+}
+
+.borderPr {
+    box-shadow: 5px 5px 2px lightblue;
 }
 
 @media (hover:hover) {
@@ -160,3 +165,13 @@ hr {
     font-family: 'Montserrat', sans-serif;
     font-size: 0.8rem; 
 } 
+
+.construccion {
+    padding: 5% 0;
+}
+
+.primeraLetra {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;  
+    font-size: 1.8rem;
+}
