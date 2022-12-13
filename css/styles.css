@@ -89,6 +89,7 @@ hr {
     border-radius:10%;
     margin:6%;
     transition: 250ms;
+    box-shadow: 5px 5px 2px lightblue;
 }
 
 .tit-acc {
